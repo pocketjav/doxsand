@@ -1,0 +1,135 @@
+/*
+Creado por: Abelardo Gándara González - 2015
+*/
+@media(min-width: 1080px){
+    #verGaleria{
+        text-decoration: none;
+        color: #999999;
+        //font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+        display: block;
+        //background-color: #3B5CFF;
+        background-color: #ffffff;
+        line-height: 400%;
+        width: 400px;
+        height: 80px;
+        text-align: center;
+        text-transform: uppercase;
+        transition-duration: .7s;
+        background-color: rgba (255, 255, 255, 0);
+        border-style: solid;
+        border-color: #999999;
+    }
+    #verGaleria:hover{
+        transition-duration: .7s;
+        background-color: #ffffff;
+        color: #bea05c;
+        border-style: solid;
+        border-color: #bea05c;
+        box-shadow: 0px 0px 50px #bea05c;
+    }
+    #verTabla{
+        text-decoration: none;
+        color: #999999;
+        //font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+        display: block;
+        //background-color: #3B5CFF;
+        background-color: #ffffff;
+        line-height: 400%;
+        width: 400px;
+        height: 80px;
+        text-align: center;
+        text-transform: uppercase;
+        transition-duration: .7s;
+        border-style: solid;
+        border-color: #999999;
+    }
+    #verTabla:hover{
+        transition-duration: .7s;
+        background-color: #ffffff;
+        color: #bea05c;
+        border-style: solid;
+        border-color: #bea05c;
+        box-shadow: 0px 0px 50px #bea05c;
+    }
+}
+
+@media(max-width: 1079px){
+    #verGaleria{
+        text-decoration: none;
+        color: #999999;
+        //font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+        display: block;
+        //background-color: #3B5CFF;
+        background-color: #ffffff;
+        line-height: 400%;
+        width: 200px;
+        height: 80px;
+        text-align: center;
+        text-transform: uppercase;
+        transition-duration: .7s;
+        background-color: rgba (255, 255, 255, 0);
+        border-style: solid;
+        border-color: #999999;
+    }
+    #verGaleria:hover{
+        transition-duration: .7s;
+        background-color: #ffffff;
+        color: #bea05c;
+        border-style: solid;
+        border-color: #bea05c;
+        box-shadow: 0px 0px 50px #bea05c;
+    }
+    #verTabla{
+        text-decoration: none;
+        color: #999999;
+        //font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+        display: block;
+        //background-color: #3B5CFF;
+        background-color: #ffffff;
+        line-height: 400%;
+        width: 200px;
+        height: 80px;
+        text-align: center;
+        text-transform: uppercase;
+        transition-duration: .7s;
+        border-style: solid;
+        border-color: #999999;
+    }
+    #verTabla:hover{
+        transition-duration: .7s;
+        background-color: #ffffff;
+        color: #bea05c;
+        border-style: solid;
+        border-color: #bea05c;
+        box-shadow: 0px 0px 50px #bea05c;
+    }
+}
+
+
+#linkG1
+{
+    text-decoration: none;
+    color: #999999;
+}
+#linkG1:hover{
+    text-decoration: none;
+    transition-duration: .7s;
+    color: #bea05c;
+}
+#linkG2
+{
+    text-decoration: none;
+    color: #999999;
+}
+#linkG2:hover{
+    text-decoration: none;
+    transition-duration: .7s;
+    color: #bea05c;
+}
+#galeria{
+     transition-duration: .7s;
+}

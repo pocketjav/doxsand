@@ -1,0 +1,38 @@
+/*
+Creado por: Abelardo Gándara González - 2015
+*/
+@media(min-width: 1080px){
+    body{
+        background-image: url(../imges/bgFinal.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-attachment: fixed;
+        background-color: grey;
+    }
+    #tiny{
+        display: none;
+    }
+}
+
+@media(max-width: 1079px){
+    body{
+        background-color: white;
+    }
+    #wide{
+        display: none;
+    }
+}
+#tiny{
+    font-size: 1.3em;
+    line-height: 20px;
+}
+.brownAnim{
+    transition-duration: .5s;
+    background-color: white;
+    color: #BEA148;
+}
+.brownAnim:hover{
+    transition-duration: .5s;
+    background-color: #BEA148;
+    color: white;
+}
